@@ -9,5 +9,5 @@ in the Kotlin. I liked this language.
 Every time I tried to improve the style of my code, I studied new features such as: Architecture Components, Room, LiveData, ViewModel etc. 
 6. Higher Education (BSUIR).
 7. English - A1 (Result of test EPAM TRAINING CENTER). There is something to strive for. I believe in myself.
-
+8. It is for third commit.
 
