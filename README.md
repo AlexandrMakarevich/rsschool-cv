@@ -1,0 +1,1 @@
+[РЕЗЮМЕ](https://AlexandrMakarevich.github.io/rsschool-cv/cv)
